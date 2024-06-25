@@ -1,15 +1,15 @@
-.btn{
-    background-color:#70c0ee;
-    border-radius: 5px;
-    border: 2px solid rgb(0, 0, 0);
-    color: #000000;
-    padding: 0.5em 1em;
-    text-decoration: none;
-    transition:  0.5s;
-    font-weight: bold;
+.btn {
+  background-color: #70c0ee;
+  border-radius: 5px;
+  border: 2px solid rgb(0, 0, 0);
+  color: #000000;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  transition: 0.5s;
+  font-weight: bold;
 }
 
-.btn:hover{
-    color: #ffffff;
-    background-color: #000000;
+.btn:hover {
+  color: #ffffff;
+  background-color: #000000;
 }
