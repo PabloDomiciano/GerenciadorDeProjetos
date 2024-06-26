@@ -1,17 +1,16 @@
-.btn_form{
-    background-color: #70c0ee;
-    border: 2px solid rgb(0, 0, 0);
-    color: #000000;
-    padding: 0.7em 1.2em;
-    text-decoration: none;
-    transition: .5s;
-    cursor: pointer;
-    border-radius: 5px;
-    font-weight: bold;
+.btn_form {
+  background-color: #70c0ee;
+  border: 2px solid rgb(0, 0, 0);
+  color: #000000;
+  padding: 0.7em 1.2em;
+  text-decoration: none;
+  transition: 0.5s;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
 }
 
 .btn_form:hover {
-    color: #ffffff;
-    background-color: #000000;
-  }
-  
+  color: #ffffff;
+  background-color: #000000;
+}
