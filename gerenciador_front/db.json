@@ -1,6 +1,39 @@
 {
-  "projects": [],
-
+  "projects": [
+    {
+      "id": "96c7",
+      "name": " Gerenciador",
+      "budget": "200",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "gerenciador": 0,
+      "services": []
+    },
+    {
+      "id": "c06f",
+      "budget": "5555",
+      "gerenciador": 0,
+      "services": [],
+      "name": "teste",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      }
+    },
+    {
+      "id": "4970",
+      "budget": "5555",
+      "gerenciador": 0,
+      "services": [],
+      "name": "teste",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      }
+    }
+  ],
   "categories": [
     {
       "id": 1,
