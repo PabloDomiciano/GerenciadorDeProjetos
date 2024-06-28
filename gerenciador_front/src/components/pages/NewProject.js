@@ -3,7 +3,7 @@ import styles from "./NewProject.module.css";
 import ProjectForm from "../project/ProjectForm";
 
 function NewProject() {
-  const history = useHistory();
+  const history = useHistory()
 
   function createPost(project) {
     //Initialize Gerenciador and Services
@@ -19,9 +19,8 @@ function NewProject() {
     })
       .then((resp) => resp.json())
       .then((data) => {
-        console.log(data);
         //redirect
-        history.push('projects', {message: 'projeto criado com sucesso!'})
+        history.push("projects", { message: "projeto criado com sucesso!" });
       })
       .catch((err) => console.log(err));
   }

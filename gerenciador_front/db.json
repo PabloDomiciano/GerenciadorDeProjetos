@@ -1,54 +1,32 @@
 {
   "projects": [
     {
-      "id": "96c7",
-      "name": " Gerenciador",
-      "budget": "200",
+      "id": "03eb",
+      "name": " SSSASA",
+      "budget": "20",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "gerenciador": 0,
       "services": []
-    },
-    {
-      "id": "c06f",
-      "budget": "5555",
-      "gerenciador": 0,
-      "services": [],
-      "name": "teste",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      }
-    },
-    {
-      "id": "4970",
-      "budget": "5555",
-      "gerenciador": 0,
-      "services": [],
-      "name": "teste",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      }
     }
   ],
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Infra"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Desenvolvimento"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Design"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Planejamento"
     }
   ]
