@@ -10,6 +10,17 @@
       },
       "gerenciador": 0,
       "services": []
+    },
+    {
+      "id": "065a",
+      "name": " Criando a moda",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "gerenciador": 0,
+      "services": []
     }
   ],
   "categories": [
