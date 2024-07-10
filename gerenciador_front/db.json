@@ -1,27 +1,5 @@
 {
   "projects": [
-    {
-      "id": "03eb",
-      "name": " SSSASA",
-      "budget": "20",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "gerenciador": 0,
-      "services": []
-    },
-    {
-      "id": "065a",
-      "name": " Criando a moda",
-      "budget": "5000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "gerenciador": 0,
-      "services": []
-    }
   ],
   "categories": [
     {
